@@ -8,7 +8,7 @@ Matthisfunction estPair(a){
     }
     return resultat
 }
-
+//Example 2 of estPair
 function estPair (a){   //Création d'une fonction pour savoir si un nombre est pair
     var resultat
     if ( (a % 2) == 0 ){ //regarde si le reste de la division euclidienne est bien nulle et donc le nombre est pair
