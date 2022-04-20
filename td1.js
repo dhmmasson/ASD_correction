@@ -8,6 +8,9 @@ function estPair(a){
     }
     return resultat
 }
+
+
+
 //Example 2 of estPair
 function estPair (a){   //Création d'une fonction pour savoir si un nombre est pair
     var resultat
