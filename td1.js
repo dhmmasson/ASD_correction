@@ -1,5 +1,5 @@
-//
-Matthisfunction estPair(a){
+//Matthis
+function estPair(a){
     var resultat
     if(a%2!=0){
         resultat=False
