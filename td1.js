@@ -19,3 +19,17 @@ function estPair (a){   //Création d'une fonction pour savoir si un nombre est 
     }
     return resultat
 }
+
+
+function max( nombre1, nombre2 ) {
+  var a
+  if( nombre1 > nombre2 ) {
+    a = nombre1
+    return a
+  } else {
+    a = nombre2
+  }
+  a = a + 2
+
+  return a
+}
