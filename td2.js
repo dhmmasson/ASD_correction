@@ -61,7 +61,7 @@ function renverse( tableau ) {
   derniereCase = n - 1
 
   i = 0
-  while ( i < n ) {
+  while ( i < n / 2 ) {
     avantEchange = tableau[ i ]
     tableau[ i ] = tableau[ derniereCase - i ]
     tableau[ derniereCase - i ] =   avantEchange
